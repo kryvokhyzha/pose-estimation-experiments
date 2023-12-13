@@ -10,3 +10,7 @@ This repository contains experiments with pose estimation.
 ### How to start?
 
 TODO
+
+## Demo
+
+![demo](assets/demo.gif)
