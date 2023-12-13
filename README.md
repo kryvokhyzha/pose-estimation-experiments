@@ -9,7 +9,9 @@ This repository contains experiments with pose estimation.
 
 ### How to start?
 
-TODO
+1. Open the notebook in Google Colab
+2. Run all cells
+3. Download the output video
 
 ## Demo
 
