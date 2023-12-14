@@ -13,6 +13,11 @@ This repository contains experiments with pose estimation.
 2. Run all cells
 3. Download the output video
 
+## References
+
+- [ViTPose](https://github.com/ViTAE-Transformer/ViTPose)
+- [MMPose](https://github.com/open-mmlab/mmpose)
+
 ## Demo
 
 ![demo](assets/demo.gif)
